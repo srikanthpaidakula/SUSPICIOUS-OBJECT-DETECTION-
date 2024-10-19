@@ -1,0 +1,8 @@
+path: C:\Users\SRIKANTH\Downloads\Faces- knifes- pistols.v7i.yolov8
+train: train/images
+val: train/images
+
+names:
+  0: face
+  1: knife
+  2: pistol
