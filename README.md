@@ -45,22 +45,7 @@ Built for integration with **CCTV surveillance systems**, this solution uses a *
 | Utilities        | Pandas, NumPy                         |
 | Deployment       | CCTV Camera Integration, Real-time Inference |
 
----
 
-## 🗂️ Project Structure
-
-SUSPICIOUS-OBJECT-DETECTION-/
-│
-├── models/ # YOLO model weights
-├── utils/ # Helper scripts
-├── results/ # Output/fused detection results
-├── requirements.txt # Required packages
-├── main.py # Main execution script
-├── fusion.py # Fusion logic for multiple models
-└── README.md # Project documentation
-
-
----
 
 ## 🚀 Getting Started
 
@@ -69,5 +54,10 @@ SUSPICIOUS-OBJECT-DETECTION-/
 ```bash
 git clone https://github.com/srikanthpaidakula/SUSPICIOUS-OBJECT-DETECTION-.git
 cd SUSPICIOUS-OBJECT-DETECTION-
+python detect.py
+
+👤 Author
+Paidakula Srikanth
+Chakilam Samhitha
 
 
