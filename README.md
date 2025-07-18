@@ -45,6 +45,11 @@ Built for integration with **CCTV surveillance systems**, this solution uses a *
 | Utilities        | Pandas, NumPy                         |
 | Deployment       | CCTV Camera Integration, Real-time Inference |
 
+---
+## 👤 Author
+Paidakula Srikanth
+Chakilam Samhitha
+
 
 
 ## 🚀 Getting Started
@@ -55,9 +60,6 @@ Built for integration with **CCTV surveillance systems**, this solution uses a *
 git clone https://github.com/srikanthpaidakula/SUSPICIOUS-OBJECT-DETECTION-.git
 cd SUSPICIOUS-OBJECT-DETECTION-
 python detect.py
----
-## 👤 Author
-Paidakula Srikanth
-Chakilam Samhitha
+
 
 
